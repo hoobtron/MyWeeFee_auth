@@ -1,0 +1,14 @@
+C:\Users\hhorlamus\testMVC\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\hhorlamus\testMVC\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\hhorlamus\testMVC\bin\Debug\netcoreapp2.0\testMVC.db
+C:\Users\hhorlamus\testMVC\bin\Debug\netcoreapp2.0\testMVC.deps.json
+C:\Users\hhorlamus\testMVC\bin\Debug\netcoreapp2.0\testMVC.runtimeconfig.json
+C:\Users\hhorlamus\testMVC\bin\Debug\netcoreapp2.0\testMVC.runtimeconfig.dev.json
+C:\Users\hhorlamus\testMVC\bin\Debug\netcoreapp2.0\testMVC.dll
+C:\Users\hhorlamus\testMVC\bin\Debug\netcoreapp2.0\testMVC.pdb
+C:\Users\hhorlamus\testMVC\obj\Debug\netcoreapp2.0\testMVC.csproj.CoreCompileInputs.cache
+C:\Users\hhorlamus\testMVC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\hhorlamus\testMVC\obj\Debug\netcoreapp2.0\testMVC.AssemblyInfoInputs.cache
+C:\Users\hhorlamus\testMVC\obj\Debug\netcoreapp2.0\testMVC.AssemblyInfo.cs
+C:\Users\hhorlamus\testMVC\obj\Debug\netcoreapp2.0\testMVC.dll
+C:\Users\hhorlamus\testMVC\obj\Debug\netcoreapp2.0\testMVC.pdb
